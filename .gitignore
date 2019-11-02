@@ -1,0 +1,6 @@
+*.dat
+results/
+!a.dat 
+nano.save
+results
+results/a.out
